@@ -16,5 +16,7 @@
   * When is detected the use of *alt+<1-9>* the current content of clipboard is changed according the position in list (1-9). At this moment the user can paste (ctrl+v) the selected content.
   * When is detected the use of *alt+delete* the current content of clipboard and list is erased.
 
+
 **PS1:** The script only works with textual contents in clipboard.
+
 **PS2:** When the user copies more than 9 contents, the oldest content is deleted and the new one is added at the end of the list, only the 9 most recent contents are preserved.
