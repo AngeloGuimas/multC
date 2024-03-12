@@ -20,3 +20,9 @@
 **PS1:** The script only works with textual contents in clipboard.
 
 **PS2:** When the user copies more than 9 contents, the oldest content is deleted and the new one is added at the end of the list, only the 9 most recent contents are preserved.
+
+
+### **Attention**
+
+Linux users may encounter the following message: *“Pyperclip could not find a copy/paste mechanism for your system...”* To resolve this follow the steps of section ***Linux users may encounter the following message*** in the link:  (https://pyperclip.readthedocs.io/en/latest/#not-implemented-error)
+
