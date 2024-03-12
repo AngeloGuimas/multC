@@ -1,6 +1,3 @@
-#author: Angelo Guimarães Silva,2023
-#e-mail: angelo.guimas2@gmail.com
-
 import keyboard
 import pyperclip
 import time
@@ -33,7 +30,7 @@ def main():
             
     #function to empty copy_var and clipboard
     def del_list():
-        copy_var.clear()
+        del copy_var[:]
         pyperclip.copy("")
 
     
