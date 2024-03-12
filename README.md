@@ -24,5 +24,5 @@
 
 ### **Attention**
 
-Linux users may encounter the following message: *“Pyperclip could not find a copy/paste mechanism for your system...”* To resolve this follow the steps of section ***Linux users may encounter the following message*** in the link:  (https://pyperclip.readthedocs.io/en/latest/#not-implemented-error)
+Linux users may encounter the following message: *“Pyperclip could not find a copy/paste mechanism for your system...”* To resolve this follow the steps of section ***Not Implemented Error*** in the link:  (https://pyperclip.readthedocs.io/en/latest/#not-implemented-error)
 
